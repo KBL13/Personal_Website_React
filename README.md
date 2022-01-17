@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ReactJS Personal Website
 
 Personal Website built with ReactJS.
 
